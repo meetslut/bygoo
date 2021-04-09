@@ -1,0 +1,1188 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: riplus\n"
+"POT-Creation-Date: 2020-07-04 19:43+0800\n"
+"PO-Revision-Date: 2020-07-04 19:42+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:11
+msgid "昵称: "
+msgstr ""
+
+#: comments.php:12
+msgid "邮箱: "
+msgstr ""
+
+#: comments.php:13
+msgid "网址: "
+msgstr ""
+
+#: comments.php:14
+msgid "浏览器会保存昵称、邮箱和网站cookies信息，下次评论时使用。"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgid "评论(%s)"
+msgstr ""
+
+#: comments.php:56 inc/core-func.php:656 inc/core-func.php:707
+msgid "<i class=\"mdi mdi-chevron-left\"></i> 上一页"
+msgstr ""
+
+#: comments.php:56 inc/core-func.php:697 inc/core-func.php:747
+msgid "下一页 <i class=\"mdi mdi-chevron-right\"></i>"
+msgstr ""
+
+#: functions.php:87
+msgid "RiPlus主题启用成功，请前往主题设置填写授权码和设置首页布局等初始参数！"
+msgstr ""
+
+#: inc/admin-func.php:27 inc/admin-func.php:55
+#: inc/admin/pages/down_order.php:82 inc/admin/pages/pay_order.php:79
+msgid "缩略图"
+msgstr ""
+
+#: inc/admin-func.php:104
+msgid "价格"
+msgstr ""
+
+#: inc/admin-func.php:105
+msgid "权限"
+msgstr ""
+
+#: inc/admin-func.php:106
+msgid "下载次数"
+msgstr ""
+
+#: inc/admin-func.php:142
+msgid "会员类型"
+msgstr ""
+
+#: inc/admin-func.php:143
+msgid "累计佣金"
+msgstr ""
+
+#: inc/admin-func.php:145
+msgid "注册IP"
+msgstr ""
+
+#: inc/admin-func.php:146
+msgid "注册时间"
+msgstr ""
+
+#: inc/admin-func.php:147
+msgid "最近登录IP"
+msgstr ""
+
+#: inc/admin-func.php:148
+msgid "最近登录时间"
+msgstr ""
+
+#: inc/admin-func.php:256
+msgid "商城管理"
+msgstr ""
+
+#: inc/admin-func.php:258
+msgid "资源销售记录"
+msgstr ""
+
+#: inc/admin-func.php:259
+msgid "会员销售记录"
+msgstr ""
+
+#: inc/admin-func.php:260
+msgid "资源下载记录"
+msgstr ""
+
+#: inc/admin-func.php:261
+msgid "用户佣金记录"
+msgstr ""
+
+#: inc/admin/csf/classes/comment-metabox.class.php:190
+#: inc/admin/csf/classes/metabox.class.php:255
+#: inc/admin/csf/classes/options.class.php:652
+msgid "No option provided by developer."
+msgstr ""
+
+#: inc/admin/csf/classes/comment-metabox.class.php:208
+#: inc/admin/csf/classes/metabox.class.php:273
+msgid "Restore"
+msgstr ""
+
+#: inc/admin/csf/classes/comment-metabox.class.php:209
+#: inc/admin/csf/classes/metabox.class.php:274
+msgid "update post for restore "
+msgstr ""
+
+#: inc/admin/csf/classes/comment-metabox.class.php:209
+#: inc/admin/csf/classes/metabox.class.php:274
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:238
+msgid "Error while saving."
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:285
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:295
+msgid "Default options restored."
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:309
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:367
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:550
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:552
+msgid "show all options"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:554
+msgid "Search option(s)"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:557
+#: inc/admin/csf/classes/options.class.php:676
+msgid "Save"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:557
+#: inc/admin/csf/classes/options.class.php:676
+msgid "Saving..."
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:558
+#: inc/admin/csf/classes/options.class.php:677
+msgid "Reset Section"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:558
+#: inc/admin/csf/classes/options.class.php:677
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:559
+#: inc/admin/csf/classes/options.class.php:678
+#: inc/admin/csf/fields/backup/backup.php:34
+msgid "Reset All"
+msgstr ""
+
+#: inc/admin/csf/classes/options.class.php:559
+#: inc/admin/csf/classes/options.class.php:678
+msgid "Are you sure to reset all options?"
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:429
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:430
+msgid "Restoring options."
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:431
+msgid "Importing options."
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:434
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:435
+msgid "Searching..."
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:436
+msgid "No results match"
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:507
+#, php-format
+msgid "Ooops! This field type (%s) can not be used here, yet."
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:570
+msgid "This field class is not available!"
+msgstr ""
+
+#: inc/admin/csf/classes/setup.class.php:574
+msgid "This type is not found!"
+msgstr ""
+
+#: inc/admin/csf/classes/shortcoder.class.php:242
+msgid "Add one more"
+msgstr ""
+
+#: inc/admin/csf/classes/shortcoder.class.php:279
+#: inc/admin/csf/functions/actions.php:43
+#: inc/admin/csf/functions/actions.php:103
+#: inc/admin/csf/functions/actions.php:125
+#: inc/admin/csf/functions/actions.php:160
+msgid "Error: Nonce verification has failed. Please try again."
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:35
+msgid "No background selected"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:66
+#: inc/admin/csf/fields/date/date.php:31
+msgid "From"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:84
+#: inc/admin/csf/fields/date/date.php:32
+msgid "To"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:102
+msgid "Direction"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:108
+msgid "Gradient Direction"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:109
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:110
+msgid "&#8658; left to right"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:111
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:112
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:155
+msgid "Background Position"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:156
+msgid "Left Top"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:157
+msgid "Left Center"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:158
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:159
+msgid "Center Top"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:160
+msgid "Center Center"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:161
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:162
+msgid "Right Top"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:163
+msgid "Right Center"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:164
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:178
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:179
+msgid "Repeat"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:180
+msgid "No Repeat"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:181
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:182
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:196
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:197
+msgid "Scroll"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:198
+msgid "Fixed"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:212
+msgid "Background Size"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:213
+msgid "Cover"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:214
+msgid "Contain"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:228
+msgid "Background Origin"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:229
+#: inc/admin/csf/fields/background/background.php:247
+msgid "Padding Box"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:230
+#: inc/admin/csf/fields/background/background.php:246
+msgid "Border Box"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:231
+#: inc/admin/csf/fields/background/background.php:248
+msgid "Content Box"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:245
+msgid "Background Clip"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:262
+msgid "Background Blend Mode"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:263
+#: inc/admin/csf/fields/link_color/link_color.php:36
+#: inc/admin/csf/fields/typography/typography.php:173
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:264
+msgid "Multiply"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:265
+msgid "Screen"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:266
+msgid "Overlay"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:267
+msgid "Darken"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:268
+msgid "Lighten"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:269
+msgid "Color Dodge"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:270
+msgid "Saturation"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:271
+msgid "Color"
+msgstr ""
+
+#: inc/admin/csf/fields/background/background.php:272
+msgid "Luminosity"
+msgstr ""
+
+#: inc/admin/csf/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: inc/admin/csf/fields/backup/backup.php:27
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: inc/admin/csf/fields/backup/backup.php:31
+msgid "Export and Download Backup"
+msgstr ""
+
+#: inc/admin/csf/fields/backup/backup.php:35
+msgid "Please be sure for reset all of options."
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:25
+#: inc/admin/csf/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:26
+#: inc/admin/csf/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:27
+#: inc/admin/csf/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:28
+#: inc/admin/csf/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:29
+#: inc/admin/csf/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:51
+#: inc/admin/csf/fields/typography/typography.php:201
+msgid "Solid"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:52
+#: inc/admin/csf/fields/typography/typography.php:204
+msgid "Dashed"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:53
+#: inc/admin/csf/fields/typography/typography.php:203
+msgid "Dotted"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:54
+#: inc/admin/csf/fields/typography/typography.php:202
+msgid "Double"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: inc/admin/csf/fields/border/border.php:59
+#: inc/admin/csf/fields/typography/typography.php:186
+#: inc/admin/csf/fields/typography/typography.php:200
+msgid "None"
+msgstr ""
+
+#: inc/admin/csf/fields/checkbox/checkbox.php:63
+#: inc/admin/csf/fields/radio/radio.php:62
+#: inc/admin/csf/fields/select/select.php:112
+msgid "No data provided for this option type."
+msgstr ""
+
+#: inc/admin/csf/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: inc/admin/csf/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: inc/admin/csf/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/admin/csf/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/admin/csf/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: inc/admin/csf/fields/group/group.php:23
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/csf/fields/group/group.php:35
+#: inc/admin/csf/fields/repeater/repeater.php:30
+msgid "Error: Nested field id can not be same with another nested field id."
+msgstr ""
+
+#: inc/admin/csf/fields/group/group.php:46
+#: inc/admin/csf/fields/group/group.php:86
+#: inc/admin/csf/fields/repeater/repeater.php:51
+#: inc/admin/csf/fields/repeater/repeater.php:82
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: inc/admin/csf/fields/group/group.php:121
+#: inc/admin/csf/fields/repeater/repeater.php:96
+msgid "You can not add more than"
+msgstr ""
+
+#: inc/admin/csf/fields/group/group.php:122
+#: inc/admin/csf/fields/repeater/repeater.php:97
+msgid "You can not remove less than"
+msgstr ""
+
+#: inc/admin/csf/fields/icon/icon.php:20
+#: inc/admin/csf/functions/actions.php:184
+msgid "Add Icon"
+msgstr ""
+
+#: inc/admin/csf/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/admin/csf/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: inc/admin/csf/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: inc/admin/csf/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: inc/admin/csf/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: inc/admin/csf/fields/map/map.php:23
+msgid "Search your address..."
+msgstr ""
+
+#: inc/admin/csf/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: inc/admin/csf/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: inc/admin/csf/fields/media/media.php:23
+#: inc/admin/csf/fields/upload/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: inc/admin/csf/fields/media/media.php:24
+#: inc/admin/csf/fields/upload/upload.php:22
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/csf/fields/media/media.php:57
+msgid "No media selected"
+msgstr ""
+
+#: inc/admin/csf/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: inc/admin/csf/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/csf/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: inc/admin/csf/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: inc/admin/csf/fields/textarea/textarea.php:37
+msgid "Add Shortcode"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:83
+msgid "Font Family"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:84
+msgid "Select a font"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:92
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:106
+#: inc/admin/csf/fields/typography/typography.php:119
+#: inc/admin/csf/fields/typography/typography.php:132
+#: inc/admin/csf/fields/typography/typography.php:147
+#: inc/admin/csf/fields/typography/typography.php:163
+#: inc/admin/csf/fields/typography/typography.php:176
+#: inc/admin/csf/fields/typography/typography.php:190
+#: inc/admin/csf/fields/typography/typography.php:208
+msgid "Default"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:117
+msgid "Font Style"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:131
+#: inc/admin/csf/fields/typography/typography.php:132
+msgid "Load Extra Styles"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:145
+msgid "Subset"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:155
+msgid "Text Align"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:157
+msgid "Inherit"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:158
+msgid "Left"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:159
+msgid "Center"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:160
+msgid "Right"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:161
+msgid "Justify"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:162
+msgid "Initial"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:171
+msgid "Font Variant"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:174
+msgid "Small Caps"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:175
+msgid "All Small Caps"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:184
+msgid "Text Transform"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:187
+msgid "Capitalize"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:188
+msgid "Uppercase"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:189
+msgid "Lowercase"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:198
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:205
+msgid "Wavy"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:206
+msgid "Overline"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:207
+msgid "Line-through"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:220
+msgid "Font Size"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:232
+msgid "Line Height"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:244
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:256
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:271
+msgid "Font Color"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:282
+msgid "Custom Style"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:349
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:355
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: inc/admin/csf/fields/typography/typography.php:375
+msgid "Google Web Fonts"
+msgstr ""
+
+#: inc/admin/csf/functions/actions.php:35
+msgid "No data provided by developer"
+msgstr ""
+
+#: inc/admin/csf/functions/actions.php:156
+msgid "You do not have required permissions to access."
+msgstr ""
+
+#: inc/admin/csf/functions/actions.php:188
+msgid "Search a Icon..."
+msgstr ""
+
+#: inc/admin/csf/functions/validate.php:14
+#: inc/admin/csf/functions/validate.php:86
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: inc/admin/csf/functions/validate.php:32
+#: inc/admin/csf/functions/validate.php:106
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: inc/admin/csf/functions/validate.php:50
+#: inc/admin/csf/functions/validate.php:126
+msgid "Error! This field is required!"
+msgstr ""
+
+#: inc/admin/csf/functions/validate.php:68
+#: inc/admin/csf/functions/validate.php:146
+msgid "Please write a valid url!"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:759
+msgid "日期"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:760
+msgid "随机"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:762
+msgid "评论数量"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:763
+msgid "文章ID"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:948
+msgid "上下页"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:949
+msgid "数字分页"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:1014
+msgid "分类ID"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:1015
+msgid "分类名称"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/options.php:1016
+msgid "文章数量"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:78
+msgid "取消收藏"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:78
+msgid "收藏"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:91
+msgid "VIP资源"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:103
+msgid "您已获得VIP免费下载特权"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:106
+msgid "您已获得分类VIP免费下载特权"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:109
+msgid "当前资源免费下载"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:112
+msgid "您已购买本资源"
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:121
+msgid "密码："
+msgstr ""
+
+#: inc/admin/csf/riplus-opt/widgets.php:305
+msgid "上的评论"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:123 inc/admin/pages/down_order.php:49
+#: inc/admin/pages/pay_order.php:49 inc/admin/pages/vip_order.php:49
+msgid "没有找到相关数据"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:152
+msgid "推广类型"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:153 inc/admin/pages/pay_order.php:80
+#: inc/admin/pages/vip_order.php:78
+msgid "商品名称"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:154 inc/admin/pages/pay_order.php:81
+#: inc/admin/pages/vip_order.php:79
+msgid "购买用户"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:155
+msgid "付款金额"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:156
+msgid "推荐人"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:157
+msgid "推荐人佣金"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:158
+msgid "佣金比例"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:160
+msgid "购买日期"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:161
+msgid "操作日期"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:162
+msgid "提现状态"
+msgstr ""
+
+#: inc/admin/pages/aff_order.php:163
+msgid "操作/审核"
+msgstr ""
+
+#: inc/admin/pages/down_order.php:78
+msgid "下载用户"
+msgstr ""
+
+#: inc/admin/pages/down_order.php:79
+msgid "今日可下载次数"
+msgstr ""
+
+#: inc/admin/pages/down_order.php:80
+msgid "今日已下载"
+msgstr ""
+
+#: inc/admin/pages/down_order.php:81
+msgid "今日剩余"
+msgstr ""
+
+#: inc/admin/pages/down_order.php:83
+msgid "下载资源名称"
+msgstr ""
+
+#: inc/admin/pages/down_order.php:84
+msgid "下载IP"
+msgstr ""
+
+#: inc/admin/pages/down_order.php:85
+msgid "下载时间"
+msgstr ""
+
+#: inc/admin/pages/pay_order.php:78 inc/admin/pages/vip_order.php:82
+msgid "本地订单号"
+msgstr ""
+
+#: inc/admin/pages/pay_order.php:82 inc/admin/pages/vip_order.php:80
+msgid "订单价格"
+msgstr ""
+
+#: inc/admin/pages/pay_order.php:85 inc/admin/pages/vip_order.php:81
+msgid "创建时间"
+msgstr ""
+
+#: inc/admin/pages/pay_order.php:86 inc/admin/pages/vip_order.php:83
+msgid "支付方式"
+msgstr ""
+
+#: inc/admin/pages/pay_order.php:87 inc/admin/pages/vip_order.php:84
+msgid "支付时间"
+msgstr ""
+
+#: inc/admin/pages/pay_order.php:88 inc/admin/pages/vip_order.php:85
+msgid "支付订单号"
+msgstr ""
+
+#: inc/admin/pages/pay_order.php:89 inc/admin/pages/vip_order.php:86
+msgid "支付状态"
+msgstr ""
+
+#: inc/class/walker-nav-class.php:174
+msgid "您的评论正在等待审核。"
+msgstr ""
+
+#: inc/core-func.php:398
+msgid "的搜索結果"
+msgstr ""
+
+#: inc/core-func.php:436
+msgid "首页"
+msgstr ""
+
+#: inc/core-func.php:522
+msgid "无"
+msgstr ""
+
+#: inc/core-func.php:523
+#, php-format
+msgid "搜索: %s"
+msgstr ""
+
+#: inc/core-func.php:533
+msgid "404 ERROR"
+msgstr ""
+
+#: inc/core-func.php:538
+#, php-format
+msgid "第%s页"
+msgstr ""
+
+#: inc/shop-func.php:80
+msgid "VIP会员专属"
+msgstr ""
+
+#: inc/shop-func.php:84
+msgid "VIP会员免费"
+msgstr ""
+
+#: inc/shop-func.php:88
+msgid "年卡 / 永久VIP免费"
+msgstr ""
+
+#: inc/shop-func.php:92
+msgid "永久VIP会员免费"
+msgstr ""
+
+#: inc/shop-func.php:95
+msgid "原价购买"
+msgstr ""
+
+#: inc/shop-func.php:119
+msgid "普通用户"
+msgstr ""
+
+#: inc/shop-func.php:127
+msgid "月卡VIP"
+msgstr ""
+
+#: inc/shop-func.php:135
+msgid "年卡VIP"
+msgstr ""
+
+#: inc/shop-func.php:143
+msgid "永久VIP"
+msgstr ""
+
+#: inc/shop-func.php:238
+msgid "未开通"
+msgstr ""
+
+#: inc/shop-func.php:240
+msgid "永久"
+msgstr ""
+
+#: inc/shop-func.php:244 inc/shop-func.php:249
+msgid "已到期"
+msgstr ""
+
+#: inc/shop-func.php:364
+msgid "您已获得VIP免费查看特权"
+msgstr ""
+
+#: inc/shop-func.php:367
+msgid "您已获得分类VIP免费查看特权"
+msgstr ""
+
+#: inc/shop-func.php:370
+msgid "当前隐藏内容免费查看"
+msgstr ""
+
+#: inc/shop-func.php:373
+msgid "您已购买本内容"
+msgstr ""
+
+#: inc/shop-func.php:384
+msgid "付费隐藏内容"
+msgstr ""
+
+#: inc/shop-func.php:386
+msgid "此处内容需要权限查看"
+msgstr ""
+
+#: inc/shop-func.php:390
+msgid "此处内容为VIP专属资源，开通本站VIP会员后免费查看"
+msgstr ""
+
+#: inc/shop-func.php:392
+msgid "该内容查看价格："
+msgstr ""
+
+#: inc/shop-func.php:399
+msgid "登录后购买"
+msgstr ""
+
+#: inc/shop-func.php:401
+msgid "支付查看"
+msgstr ""
+
+#: inc/shop-func.php:405
+msgid "开通VIP免费查看"
+msgstr ""
+
+#: inc/shop-func.php:417 inc/shop-func.php:418
+msgid "评论可见隐藏内容"
+msgstr ""
+
+#: inc/shop-func.php:417
+msgid "此处内容<a href=\"#respond\" title=\"评论\">评论</a>后可见"
+msgstr ""
+
+#: inc/shop-func.php:417
+msgid "温馨提示：此处为隐藏内容，需要评论或回复留言后可见"
+msgstr ""
+
+#: inc/shop-func.php:417
+msgid "评论/回复"
+msgstr ""
+
+#: template-parts/archive-top.php:17
+#, php-format
+msgid "搜索：%s"
+msgstr ""
+
+#: template-parts/entry-page.php:13
+msgctxt "single"
+msgid "<i class=\"mdi mdi-chevron-left\"></i> 上一篇"
+msgstr ""
+
+#: template-parts/entry-page.php:27
+msgctxt "single"
+msgid "下一篇  <i class=\"mdi mdi-chevron-right\"></i>"
+msgstr ""
+
+#: template-parts/entry-related-posts.php:31
+msgid "相关推荐"
+msgstr ""
+
+#: template-parts/footer-part.php:29
+msgid "友情链接："
+msgstr ""
+
+#: template-parts/header-menu-search.php:19
+msgid "随机推荐"
+msgstr ""
+
+#: template-parts/home/catpost.php:32 template-parts/home/lastpost.php:20
+msgid "最新"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "riplus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://ritheme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Riplus主题，全新会员系统，注重会员体系分离，一键开启关闭会员系统，一键切换单"
+"独付费系统，更加舒适的手机自适应设计，完全bootstrap4设计，当前为SVIP内测版"
+"本。切勿传播。"
+msgstr ""
